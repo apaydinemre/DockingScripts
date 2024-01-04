@@ -1,4 +1,4 @@
-# DockingScripts
+# Docking Scripts
 You can find the scripts I use for docking, Ligand preparation and virtual screening.
 
 # rdkit_2d.py
