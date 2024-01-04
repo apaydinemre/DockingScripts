@@ -8,6 +8,9 @@ This script adds hydrogens to the 2D ligand files with sdf extension in the liga
 Usage
 
 1- Create a folder named ligands and new_ligands in your current folder and upload the script to the main folder. 
+
 2- In the "ligands" folder, upload your 2D ligand files with .sdf extension that you downloaded from your libraries and run the script.
+
 3- They will be saved in the "new_ligands" folder ready to be converted to pdbqt. 
+
 4- After that you can convert your sdf files to pdbqt using Meeko (https://github.com/forlilab/Meeko) or OpenBabel (https://github.com/openbabel/openbabel).
